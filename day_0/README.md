@@ -1,10 +1,11 @@
 ## Dive Right In!
-
+XX
 You will likely spend the majority of your time in Module 1 in either the Terminal or your text editor. When you're new to programming, the terminal can seem like a scary place, but it has some advantages over other means of interacting with your computer. Perhaps the greatest advantage is that it allows programmers to build tools that they can share with each other without going through the process of creating a graphical user interface. This makes it easy to share code quickly so that it can be used in multiple projects.
 
 You already have had some exposure to the terminal in the [mod0 session 2: Terminal and Command Line](http://mod0.turing.io/session2/#terminal-and-command-line). Let's do a little more practice!
 
 ### Practice
+
 
 Use the commands listed above to move around your computer.
 
@@ -58,7 +59,7 @@ Don't worry about putting any text into these files. For now, just create this s
 
 Lets get a little practice with the `rm` command. Please be careful!
 
-* `rm`: This will remove a file from your system. Be careful with this! The terminal assumes you're a little more of an expert than the system does. This doesn't move the file to the Trash, it removes it completely from your system. It's a little like moving the file to the trash and then deleting it immediately.
+* `rm`: This will remove a file from your system. Be careful with this! The terminal assumes you're a little more of an expert than the system does. This doesn't move the file to the Trash, it removes it completely from your system. It's a little like moving the file to the trash and then deleting it immediately.   
 
 * `rm -rf`: Adding the `-r` and `-f` flags to the `rm` command will allow you to delete directories even if they have other files and/or directories inside of them. For more information on each of these flags enter `man rm` into your terminal. It will print out the manual for this command.
 
